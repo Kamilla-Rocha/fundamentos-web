@@ -1,0 +1,15 @@
+/*Estilo de pagina index,html*/
+.center{
+    text-align: center;
+
+}
+
+.container{
+    display:flex;
+    flex-flow: row ;
+    justify-content:center;
+}
+
+
+
+
